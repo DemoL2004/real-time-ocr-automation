@@ -29,8 +29,8 @@ This project demonstrates:
 
 ## Architecture
 
-Screen Capture
-↓
+- Screen Capture
+- ↓
 OCR Extraction
 ↓
 Data Cleaning
