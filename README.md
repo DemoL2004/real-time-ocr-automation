@@ -29,28 +29,42 @@ This project demonstrates:
 
 ## Architecture
 
-- Screen Capture
-- ↓
+Screen Capture
+
+↓
+
 OCR Extraction
+
 ↓
+
 Data Cleaning
+
 ↓
+
 Decision Engine
+
 ↓
+
 Automated Interaction
+
 ↓
+
 Result Logging
 
 
 ---
 
 ## Project Structure
-
 .
+
 ├── main.py
+
 ├── utils.py
+
 ├── config.py
+
 ├── requirements.txt
+
 └── README.md
 
 
